@@ -12,7 +12,7 @@
 
 ## DOWNLOADING
 
-There are a number of ways to download the source code. Some are described here, an alternative all-inclusive guide is also located at https://wiki.beestation13.com/view/Downloading_the_source_code
+Some are described here, an alternative all-inclusive guide is also located at https://wiki.beestation13.com/view/Downloading_the_source_code. There are a number of ways to download the source code. 
 
 Option 1:
 Follow this: https://wiki.beestation13.com/view/Guide_to_git
